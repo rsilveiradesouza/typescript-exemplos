@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "noEmitOnError": false,
+
+        "noUnusedLocals": true,
+        "noUnusedParameters": true
+    }
+}
